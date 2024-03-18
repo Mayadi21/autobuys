@@ -1,0 +1,39 @@
+daftar pengguna:
+
+baris pertama = username
+baris kedua = password
+
+admin    (ADMIN)
+kelompok5
+
+adminmay    (ADMIN)
+mayadiii
+
+budi123
+budy123
+
+joygrace34
+joy123
+
+ahmaddd
+ahmad1
+
+michael
+michael15
+
+rifkyyy
+rifky_lelang
+
+maharani
+milaaa8
+
+zalfazhr
+zahira123
+
+euuu115
+euuu123
+
+jeremia
+jeremia10
+
+
